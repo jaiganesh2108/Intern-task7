@@ -39,4 +39,6 @@ import os
 2. the code is saves as main.py with pillow and os imports
 3. after the resize task the resized images will be saved in the new folder called resized_images
 ---
+For more details visit to: https://www.geeksforgeeks.org/python/python-pillow-tutorial/
+
 # THANK YOU!
